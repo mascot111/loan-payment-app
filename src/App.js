@@ -56,7 +56,8 @@ function PaymentDetails() {
       <p className="warning">
         We have recently become aware of fraudulent individuals impersonating our company's repayment links in an attempt to deceive users. Please verify that this is from our official channel.
       </p>
-      <h3>Official repayment wallet account</h3>
+      <h3>Premium Membership Official Repayment Account</h3>
+
       <p className="subtext">
   Please DO NOT transfer money to any other account. <br />
   <span style={{ color: 'blue' }}>
