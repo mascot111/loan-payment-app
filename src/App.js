@@ -2,7 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Routes, Route, Link, useParams, useNavigate } from 'react-router-dom';
 import './App.css';
 
-const amountPayable = 621; // Change this anytime
+const amountPayable = 2354; // Change this anytime
 const accounts = {
   MTN: ['0557463351', '0599647601'],
   Telecel: ['0201112233', '0204445566'],
