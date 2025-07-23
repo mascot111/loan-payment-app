@@ -57,7 +57,13 @@ function PaymentDetails() {
         We have recently become aware of fraudulent individuals impersonating our company's repayment links in an attempt to deceive users. Please verify that this is from our official channel.
       </p>
       <h3>Official repayment wallet account</h3>
-      <p className="subtext">Pls do NOT transfer money to any other account.</p>
+      <p className="subtext">
+  Please DO NOT transfer money to any other account. <br />
+  <span style={{ color: 'blue' }}>
+    Please send your repayment proof of your existing loan to our support team on WhatsApp.
+  </span>
+</p>
+
 
       <div className="accounts-section">
         {accList.map((acc, index) => (
