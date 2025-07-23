@@ -4,7 +4,7 @@ import './App.css';
 
 const amountPayable = 621; // Change this anytime
 const accounts = {
-  MTN: ['0544191603', '0544033953'],
+  MTN: ['0557463351', '0599647601'],
   Telecel: ['0201112233', '0204445566'],
   AirtelTigo: ['0268889999', '0277778888']
 };
